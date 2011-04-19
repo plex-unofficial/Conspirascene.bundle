@@ -1,0 +1,16 @@
+{
+	"VideoListTitle": "List All Videos",
+	"VideoListTitle2": "Showing All Videos",
+	"CategoryListTitle": "Browse Categories",
+	"CategoryListTitle2": "Browsing Categories",
+	"CategoryListTitle3": "Browsing Subcategories",
+	"TagListTitle": "Browse Tags",
+	"TagListTitle2": "Browsing Tags",
+	"TagListSubtitle": "Find videos via the most popular tags",
+	"SearchTitle": "Search Videos",
+	"SearchInputMessage": "Enter Search Term",
+	"SearchSummary": "Search through the list of archived videos",
+	"NextPage": "Next Page...",
+	"SearchErrorTitle": "Search Message",
+	"SearchErrorMessage": "No results found for"
+}
